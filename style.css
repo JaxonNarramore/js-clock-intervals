@@ -1,15 +1,20 @@
 #clock img {
-
+    position: absolute;
+    bottom: 100px;
+    right: 300px;
 }
 
 #hour {
-
+    position: absolute;
+    transform: rotate(6deg)
 }
 
 #minute {
-
+    position: absolute;
+    transform: rotate(6deg)
 }
 
 #second {
-
+    position: absolute;
+    transform: rotate(6deg)
 }
